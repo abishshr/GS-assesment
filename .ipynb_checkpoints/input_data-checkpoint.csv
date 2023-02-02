@@ -1,0 +1,14 @@
+Metric,Value,Timestamp
+temperature,88,2022-06-04T12:01:00.000Z
+temperature,89,2022-06-04T12:01:30.000Z
+precipitation,0.5,2022-06-04T14:23:32.000Z
+temperature,84,2022-06-04T13:02:00.000Z
+temperature,86,2022-06-04T13:03:00.000Z
+precipitation,0.2,2022-06-04T14:24:32.000Z
+temperature,91,2022-06-04T15:05:00.000Z
+precipitation,0.8,2022-06-04T15:30:32.000Z
+temperature,92,2022-06-04T16:06:00.000Z
+temperature,94,2022-06-04T17:07:00.000Z
+precipitation,0.7,2022-06-04T17:45:32.000Z
+temperature,90,2022-06-04T18:08:00.000Z
+precipitation,0.6,2022-06-04T18:20:32.000Z
